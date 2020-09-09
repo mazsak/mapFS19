@@ -350,24 +350,24 @@
 
 
   <Materials>
-    <Material name="groundDetail_mat" materialId="5" customShaderId="252">
+    <Material name="groundDetail_mat" materialId="4" customShaderId="252">
       <Texture fileId="250"/>
       <Normalmap fileId="251"/>
       <CustomParameter name="dirtAndTextureUVScaleOffset" value="0.04 0.04 0.1875 0.071429"/>
       <CustomParameter name="alphaBlendStartEnd" value="75 80 0 0"/>
       <CustomParameter name="terrainSizeInvSizeScaleXZScaleY" value="2048 0.000488281 2 0.00389105"/>
     </Material>
-    <Material name="groundDetailHeight_mat" materialId="6" customShaderId="254">
+    <Material name="terrainMaterial_mat" materialId="6" customShaderId="2">
+      <CustomParameter name="terrainLodBlendInfos" value="0 0 0 0"/>
+      <CustomParameter name="terrainSizeInvSizeScaleXZScaleY" value="0 0 0 0"/>
+      <CustomParameter name="terrainPatchOffset" value="0 0 0 0"/>
+    </Material>
+    <Material name="groundDetailHeight_mat" materialId="5" customShaderId="254">
       <Texture fileId="250"/>
       <Normalmap fileId="251"/>
       <CustomParameter name="dirtAndTextureUVScale" value="0.04 0.04 1.6 0"/>
       <CustomParameter name="alphaBlendStartEnd" value="75 80 0 0"/>
       <CustomParameter name="terrainSizeInvSizeScaleXZScaleY" value="4096 0.000244141 1 0.00389105"/>
-    </Material>
-    <Material name="terrainMaterial_mat" materialId="4" customShaderId="2">
-      <CustomParameter name="terrainLodBlendInfos" value="0 0 0 0"/>
-      <CustomParameter name="terrainSizeInvSizeScaleXZScaleY" value="0 0 0 0"/>
-      <CustomParameter name="terrainPatchOffset" value="0 0 0 0"/>
     </Material>
   </Materials>
 
@@ -380,9 +380,9 @@
   </Dynamics>
 
   <Scene>
-    <Camera name="persp" translation="-1850.79 122.274 1198.45" rotation="158.48 -69.3737 -180" nodeId="8" fov="54.4322" nearClip="0.1" farClip="10000" orthographicHeight="1"/>
+    <Camera name="persp" translation="1187.35 227.129 481.661" rotation="-21.9784 -58.6027 -6.65769e-07" nodeId="8" fov="54.4322" nearClip="0.1" farClip="10000" orthographicHeight="1"/>
     <Light name="sun" translation="6.10352e-05 400 6.10352e-05" rotation="-35.393 51.396 20.8053" objectMask="67043328" nodeId="9" type="directional" color="1 1 1" emitDiffuse="true" emitSpecular="true" castShadowMap="true" depthMapBias="0.001" depthMapSlopeScaleBias="2" depthMapSlopeClamp="0.001" depthMapResolution="2048" shadowFarDistance="400" shadowExtrusionDistance="320" shadowPerspective="false" numShadowMapSplits="3" shadowMapSplitDistance0="30" shadowMapSplitDistance1="80" shadowMapSplitDistance2="400" shadowMapSplitDistance3="400" decayRate="1" range="10000" scattering="true"/>
-    <TerrainTransformGroup name="terrain" translation="0 0 6.10352e-05" rotation="0 0 1.70755e-06" static="true" collisionMask="524255" nodeId="11" heightMapId="1" patchSize="65" maxLODDistance="750" heightScale="255" unitsPerPixel="2" lodBlendStart="200" lodBlendEnd="300" lodTextureSize="4096" lodBlendStartDynamic="50" lodBlendEndDynamic="65" materialId="4" castShadowMap="true">
+    <TerrainTransformGroup name="terrain" translation="0 0 6.10352e-05" rotation="0 0 1.70755e-06" static="true" collisionMask="524255" nodeId="11" heightMapId="1" patchSize="65" maxLODDistance="750" heightScale="255" unitsPerPixel="2" lodBlendStart="200" lodBlendEnd="300" lodTextureSize="4096" lodBlendStartDynamic="50" lodBlendEndDynamic="65" materialId="6" castShadowMap="true">
       <Layers>
         <Layer name="roughDirt01" detailMapId="5" normalMapId="6" unitSize="1.5" weightMapId="3" blendContrast="0.2" distanceMapId="4" attributes="0.155 0.082 0.037 1 1" priority="2"/>
         <Layer name="roughDirt02" detailMapId="8" normalMapId="9" unitSize="1.5" weightMapId="7" blendContrast="0.2" distanceMapId="4" attributes="0.155 0.082 0.037 1 1" priority="2"/>
@@ -490,8 +490,8 @@
         <InfoLayer name="tipCol" fileId="236" numChannels="1" runtime="true"/>
         <InfoLayer name="farmland" fileId="237" numChannels="6"/>
         <InfoLayer name="mud" fileId="238" numChannels="2"/>
-        <DetailLayer name="terrainDetail" densityMapId="239" numDensityMapChannels="13" compressionChannels="5" cellSize="8" objectMask="16711935" decalLayer="1" distanceMapIds="240;241;242;243;244;;;;245;246;247;248;249;;;;245;246;247;248;249;;;;245;246;247;248;249" distanceMapFirstChannel="0" distanceMapNumChannels="5" materialId="5" viewDistance="75" blendOutDistance="5" densityMapShaderNames="blendMap;blendMap2" combinedValuesChannels="0 3 0;6 2 0;3 3 1" useInterpolatedDensityMap="false;false"/>
-        <DetailLayer name="terrainDetailHeight" densityMapId="253" numDensityMapChannels="11" compressionChannels="5" cellSize="8" objectMask="16711935" decalLayer="2" materialId="6" viewDistance="75" blendOutDistance="5" densityMapShaderNames="blendMap" combinedValuesChannels="0 5 0;5 6 0" useInterpolatedDensityMap="false" heightFirstChannel="5" heightNumChannels="6" maxHeight="4"/>
+        <DetailLayer name="terrainDetail" densityMapId="239" numDensityMapChannels="13" compressionChannels="5" cellSize="8" objectMask="16711935" decalLayer="1" distanceMapIds="240;241;242;243;244;;;;245;246;247;248;249;;;;245;246;247;248;249;;;;245;246;247;248;249" distanceMapFirstChannel="0" distanceMapNumChannels="5" materialId="4" viewDistance="75" blendOutDistance="5" densityMapShaderNames="blendMap;blendMap2" combinedValuesChannels="0 3 0;6 2 0;3 3 1" useInterpolatedDensityMap="false;false"/>
+        <DetailLayer name="terrainDetailHeight" densityMapId="253" numDensityMapChannels="11" compressionChannels="5" cellSize="8" objectMask="16711935" decalLayer="2" materialId="5" viewDistance="75" blendOutDistance="5" densityMapShaderNames="blendMap" combinedValuesChannels="0 5 0;5 6 0" useInterpolatedDensityMap="false" heightFirstChannel="5" heightNumChannels="6" maxHeight="4"/>
         <FoliageMultiLayer densityMapId="256" numChannels="10" numTypeIndexChannels="5" compressionChannels="5">
           <FoliageType name="wheat" foliageXmlId="263"/>
           <FoliageType name="grass" foliageXmlId="264"/>
