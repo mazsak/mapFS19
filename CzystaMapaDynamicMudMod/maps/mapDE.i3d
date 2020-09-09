@@ -1,0 +1,530 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<i3D name="untitled" version="1.6" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://i3d.giants.ch/schema/i3d-1.6.xsd">
+  <Asset>
+    <Export program="GIANTS Editor 64bit" version="8.1.0"/>
+  </Asset>
+
+  <Files>
+    <File fileId="152" filename="mapDE/animalMud01_weight.png"/>
+    <File fileId="155" filename="mapDE/animalMud02_weight.png"/>
+    <File fileId="158" filename="mapDE/animalMud03_weight.png"/>
+    <File fileId="161" filename="mapDE/animalMud04_weight.png"/>
+    <File fileId="164" filename="mapDE/asphalt01_weight.png"/>
+    <File fileId="167" filename="mapDE/asphalt02_weight.png"/>
+    <File fileId="170" filename="mapDE/asphalt03_weight.png"/>
+    <File fileId="173" filename="mapDE/asphalt04_weight.png"/>
+    <File fileId="76" filename="mapDE/beachSandWet01_weight.png"/>
+    <File fileId="79" filename="mapDE/beachSandWet02_weight.png"/>
+    <File fileId="82" filename="mapDE/beachSandWet03_weight.png"/>
+    <File fileId="85" filename="mapDE/beachSandWet04_weight.png"/>
+    <File fileId="118" filename="mapDE/concrete01_weight.png"/>
+    <File fileId="121" filename="mapDE/concrete02_weight.png"/>
+    <File fileId="124" filename="mapDE/concrete03_weight.png"/>
+    <File fileId="127" filename="mapDE/concrete04_weight.png"/>
+    <File fileId="133" filename="mapDE/concreteDirt01_weight.png"/>
+    <File fileId="130" filename="mapDE/concreteGravel01_weight.png"/>
+    <File fileId="239" filename="mapDE/cultivator_density.gdm"/>
+    <File fileId="136" filename="mapDE/forestGround01_weight.png"/>
+    <File fileId="139" filename="mapDE/forestGround02_weight.png"/>
+    <File fileId="142" filename="mapDE/forestGround03_weight.png"/>
+    <File fileId="145" filename="mapDE/forestGround04_weight.png"/>
+    <File fileId="148" filename="mapDE/forestGroundUS01_weight.png"/>
+    <File fileId="149" filename="mapDE/forestGroundUS02_weight.png"/>
+    <File fileId="150" filename="mapDE/forestGroundUS03_weight.png"/>
+    <File fileId="151" filename="mapDE/forestGroundUS04_weight.png"/>
+    <File fileId="256" filename="mapDE/fruit_density.gdm"/>
+    <File fileId="16" filename="mapDE/grass01_weight.png"/>
+    <File fileId="19" filename="mapDE/grass02_weight.png"/>
+    <File fileId="22" filename="mapDE/grass03_weight.png"/>
+    <File fileId="25" filename="mapDE/grass04_weight.png"/>
+    <File fileId="40" filename="mapDE/grassRough01_weight.png"/>
+    <File fileId="43" filename="mapDE/grassRough02_weight.png"/>
+    <File fileId="46" filename="mapDE/grassRough03_weight.png"/>
+    <File fileId="49" filename="mapDE/grassRough04_weight.png"/>
+    <File fileId="28" filename="mapDE/grassTown01_weight.png"/>
+    <File fileId="31" filename="mapDE/grassTown02_weight.png"/>
+    <File fileId="34" filename="mapDE/grassTown03_weight.png"/>
+    <File fileId="37" filename="mapDE/grassTown04_weight.png"/>
+    <File fileId="106" filename="mapDE/gravel01_weight.png"/>
+    <File fileId="109" filename="mapDE/gravel02_weight.png"/>
+    <File fileId="112" filename="mapDE/gravel03_weight.png"/>
+    <File fileId="115" filename="mapDE/gravel04_weight.png"/>
+    <File fileId="1" filename="mapDE/mapDE_dem.png"/>
+    <File fileId="237" filename="mapDE/mapDE_farmland.grle"/>
+    <File fileId="52" filename="mapDE/mountainRock01_weight.png"/>
+    <File fileId="55" filename="mapDE/mountainRock02_weight.png"/>
+    <File fileId="58" filename="mapDE/mountainRock03_weight.png"/>
+    <File fileId="61" filename="mapDE/mountainRock04_weight.png"/>
+    <File fileId="64" filename="mapDE/mountainRockDark01_weight.png"/>
+    <File fileId="67" filename="mapDE/mountainRockDark02_weight.png"/>
+    <File fileId="70" filename="mapDE/mountainRockDark03_weight.png"/>
+    <File fileId="73" filename="mapDE/mountainRockDark04_weight.png"/>
+    <File fileId="238" filename="mapDE/mud_weight.png"/>
+    <File fileId="203" filename="mapDE/ortho01_weight.png"/>
+    <File fileId="206" filename="mapDE/ortho02_weight.png"/>
+    <File fileId="208" filename="mapDE/ortho03_weight.png"/>
+    <File fileId="210" filename="mapDE/ortho04_weight.png"/>
+    <File fileId="212" filename="mapDE/ortho05_weight.png"/>
+    <File fileId="214" filename="mapDE/ortho06_weight.png"/>
+    <File fileId="216" filename="mapDE/ortho07_weight.png"/>
+    <File fileId="218" filename="mapDE/ortho08_weight.png"/>
+    <File fileId="220" filename="mapDE/ortho09_weight.png"/>
+    <File fileId="222" filename="mapDE/ortho10_weight.png"/>
+    <File fileId="224" filename="mapDE/ortho11_weight.png"/>
+    <File fileId="226" filename="mapDE/ortho12_weight.png"/>
+    <File fileId="228" filename="mapDE/ortho13_weight.png"/>
+    <File fileId="230" filename="mapDE/ortho14_weight.png"/>
+    <File fileId="232" filename="mapDE/ortho15_weight.png"/>
+    <File fileId="234" filename="mapDE/ortho16_weight.png"/>
+    <File fileId="176" filename="mapDE/plate01_weight.png"/>
+    <File fileId="179" filename="mapDE/plate02_weight.png"/>
+    <File fileId="182" filename="mapDE/plate03_weight.png"/>
+    <File fileId="185" filename="mapDE/plate04_weight.png"/>
+    <File fileId="188" filename="mapDE/plateDamaged01_weight.png"/>
+    <File fileId="191" filename="mapDE/plateDamaged02_weight.png"/>
+    <File fileId="194" filename="mapDE/plateDamaged03_weight.png"/>
+    <File fileId="197" filename="mapDE/plateDamaged04_weight.png"/>
+    <File fileId="88" filename="mapDE/riverStoneBank01_weight.png"/>
+    <File fileId="91" filename="mapDE/riverStoneBank02_weight.png"/>
+    <File fileId="94" filename="mapDE/riverStoneBank03_weight.png"/>
+    <File fileId="97" filename="mapDE/riverStoneBank04_weight.png"/>
+    <File fileId="103" filename="mapDE/riverStoneBankWater01_weight.png"/>
+    <File fileId="100" filename="mapDE/riverStoneBankWaterEdge01_weight.png"/>
+    <File fileId="3" filename="mapDE/roughDirt01_weight.png"/>
+    <File fileId="7" filename="mapDE/roughDirt02_weight.png"/>
+    <File fileId="10" filename="mapDE/roughDirt03_weight.png"/>
+    <File fileId="13" filename="mapDE/roughDirt04_weight.png"/>
+    <File fileId="253" filename="mapDE/terrainDetailHeight_density.gdm"/>
+    <File fileId="236" filename="mapDE/tipColInfoLayer.grle"/>
+    <File fileId="200" filename="mapDE/waterPuddle01_weight.png"/>
+    <File fileId="340" filename="mapDE/weed_density.gdm"/>
+    <File fileId="153" filename="textures/terrain/animalMud01_diffuse.png"/>
+    <File fileId="154" filename="textures/terrain/animalMud01_normal.png"/>
+    <File fileId="156" filename="textures/terrain/animalMud02_diffuse.png"/>
+    <File fileId="157" filename="textures/terrain/animalMud02_normal.png"/>
+    <File fileId="159" filename="textures/terrain/animalMud03_diffuse.png"/>
+    <File fileId="160" filename="textures/terrain/animalMud03_normal.png"/>
+    <File fileId="162" filename="textures/terrain/animalMud04_diffuse.png"/>
+    <File fileId="163" filename="textures/terrain/animalMud04_normal.png"/>
+    <File fileId="165" filename="textures/terrain/asphalt01_diffuse.png"/>
+    <File fileId="166" filename="textures/terrain/asphalt01_normal.png"/>
+    <File fileId="168" filename="textures/terrain/asphalt02_diffuse.png"/>
+    <File fileId="169" filename="textures/terrain/asphalt02_normal.png"/>
+    <File fileId="171" filename="textures/terrain/asphalt03_diffuse.png"/>
+    <File fileId="172" filename="textures/terrain/asphalt03_normal.png"/>
+    <File fileId="174" filename="textures/terrain/asphalt04_diffuse.png"/>
+    <File fileId="175" filename="textures/terrain/asphalt04_normal.png"/>
+    <File fileId="77" filename="textures/terrain/beachSandWet01_diffuse.png"/>
+    <File fileId="78" filename="textures/terrain/beachSandWet01_normal.png"/>
+    <File fileId="80" filename="textures/terrain/beachSandWet02_diffuse.png"/>
+    <File fileId="81" filename="textures/terrain/beachSandWet02_normal.png"/>
+    <File fileId="83" filename="textures/terrain/beachSandWet03_diffuse.png"/>
+    <File fileId="84" filename="textures/terrain/beachSandWet03_normal.png"/>
+    <File fileId="86" filename="textures/terrain/beachSandWet04_diffuse.png"/>
+    <File fileId="87" filename="textures/terrain/beachSandWet04_normal.png"/>
+    <File fileId="53" filename="textures/terrain/cliffRockDE01_diffuse.png"/>
+    <File fileId="54" filename="textures/terrain/cliffRockDE01_normal.png"/>
+    <File fileId="56" filename="textures/terrain/cliffRockDE02_diffuse.png"/>
+    <File fileId="57" filename="textures/terrain/cliffRockDE02_normal.png"/>
+    <File fileId="59" filename="textures/terrain/cliffRockDE03_diffuse.png"/>
+    <File fileId="60" filename="textures/terrain/cliffRockDE03_normal.png"/>
+    <File fileId="62" filename="textures/terrain/cliffRockDE04_diffuse.png"/>
+    <File fileId="63" filename="textures/terrain/cliffRockDE04_normal.png"/>
+    <File fileId="65" filename="textures/terrain/cliffRockDark01_diffuse.png"/>
+    <File fileId="66" filename="textures/terrain/cliffRockDark01_normal.png"/>
+    <File fileId="68" filename="textures/terrain/cliffRockDark02_diffuse.png"/>
+    <File fileId="69" filename="textures/terrain/cliffRockDark02_normal.png"/>
+    <File fileId="71" filename="textures/terrain/cliffRockDark03_diffuse.png"/>
+    <File fileId="72" filename="textures/terrain/cliffRockDark03_normal.png"/>
+    <File fileId="74" filename="textures/terrain/cliffRockDark04_diffuse.png"/>
+    <File fileId="75" filename="textures/terrain/cliffRockDark04_normal.png"/>
+    <File fileId="119" filename="textures/terrain/concrete01_diffuse.png"/>
+    <File fileId="120" filename="textures/terrain/concrete01_normal.png"/>
+    <File fileId="122" filename="textures/terrain/concrete02_diffuse.png"/>
+    <File fileId="123" filename="textures/terrain/concrete02_normal.png"/>
+    <File fileId="125" filename="textures/terrain/concrete03_diffuse.png"/>
+    <File fileId="126" filename="textures/terrain/concrete03_normal.png"/>
+    <File fileId="128" filename="textures/terrain/concrete04_diffuse.png"/>
+    <File fileId="129" filename="textures/terrain/concrete04_normal.png"/>
+    <File fileId="134" filename="textures/terrain/concreteDirt01_diffuse.png"/>
+    <File fileId="135" filename="textures/terrain/concreteDirt01_normal.png"/>
+    <File fileId="131" filename="textures/terrain/concreteGravel01_diffuse.png"/>
+    <File fileId="132" filename="textures/terrain/concreteGravel01_normal.png"/>
+    <File fileId="137" filename="textures/terrain/forestGroundDE01_diffuse.png"/>
+    <File fileId="138" filename="textures/terrain/forestGroundDE01_normal.png"/>
+    <File fileId="140" filename="textures/terrain/forestGroundDE02_diffuse.png"/>
+    <File fileId="141" filename="textures/terrain/forestGroundDE02_normal.png"/>
+    <File fileId="143" filename="textures/terrain/forestGroundDE03_diffuse.png"/>
+    <File fileId="144" filename="textures/terrain/forestGroundDE03_normal.png"/>
+    <File fileId="146" filename="textures/terrain/forestGroundDE04_diffuse.png"/>
+    <File fileId="147" filename="textures/terrain/forestGroundDE04_normal.png"/>
+    <File fileId="17" filename="textures/terrain/grassDirtDE01_diffuse.png"/>
+    <File fileId="18" filename="textures/terrain/grassDirtDE01_normal.png"/>
+    <File fileId="20" filename="textures/terrain/grassDirtDE02_diffuse.png"/>
+    <File fileId="21" filename="textures/terrain/grassDirtDE02_normal.png"/>
+    <File fileId="23" filename="textures/terrain/grassDirtDE03_diffuse.png"/>
+    <File fileId="24" filename="textures/terrain/grassDirtDE03_normal.png"/>
+    <File fileId="26" filename="textures/terrain/grassDirtDE04_diffuse.png"/>
+    <File fileId="27" filename="textures/terrain/grassDirtDE04_normal.png"/>
+    <File fileId="41" filename="textures/terrain/grassRough01_diffuse.png"/>
+    <File fileId="42" filename="textures/terrain/grassRough01_normal.png"/>
+    <File fileId="44" filename="textures/terrain/grassRough02_diffuse.png"/>
+    <File fileId="45" filename="textures/terrain/grassRough02_normal.png"/>
+    <File fileId="47" filename="textures/terrain/grassRough03_diffuse.png"/>
+    <File fileId="48" filename="textures/terrain/grassRough03_normal.png"/>
+    <File fileId="50" filename="textures/terrain/grassRough04_diffuse.png"/>
+    <File fileId="51" filename="textures/terrain/grassRough04_normal.png"/>
+    <File fileId="29" filename="textures/terrain/grassTown01_diffuse.png"/>
+    <File fileId="30" filename="textures/terrain/grassTown01_normal.png"/>
+    <File fileId="32" filename="textures/terrain/grassTown02_diffuse.png"/>
+    <File fileId="33" filename="textures/terrain/grassTown02_normal.png"/>
+    <File fileId="35" filename="textures/terrain/grassTown03_diffuse.png"/>
+    <File fileId="36" filename="textures/terrain/grassTown03_normal.png"/>
+    <File fileId="38" filename="textures/terrain/grassTown04_diffuse.png"/>
+    <File fileId="39" filename="textures/terrain/grassTown04_normal.png"/>
+    <File fileId="107" filename="textures/terrain/gravel01_diffuse.png"/>
+    <File fileId="108" filename="textures/terrain/gravel01_normal.png"/>
+    <File fileId="110" filename="textures/terrain/gravel02_diffuse.png"/>
+    <File fileId="111" filename="textures/terrain/gravel02_normal.png"/>
+    <File fileId="113" filename="textures/terrain/gravel03_diffuse.png"/>
+    <File fileId="114" filename="textures/terrain/gravel03_normal.png"/>
+    <File fileId="116" filename="textures/terrain/gravel04_diffuse.png"/>
+    <File fileId="117" filename="textures/terrain/gravel04_normal.png"/>
+    <File fileId="241" filename="textures/terrain/ground/distance/acre_distance_diffuse.png"/>
+    <File fileId="204" filename="textures/terrain/ortho01_diffuse.png"/>
+    <File fileId="207" filename="textures/terrain/ortho02_diffuse.png"/>
+    <File fileId="209" filename="textures/terrain/ortho03_diffuse.png"/>
+    <File fileId="211" filename="textures/terrain/ortho04_diffuse.png"/>
+    <File fileId="213" filename="textures/terrain/ortho05_diffuse.png"/>
+    <File fileId="215" filename="textures/terrain/ortho06_diffuse.png"/>
+    <File fileId="217" filename="textures/terrain/ortho07_diffuse.png"/>
+    <File fileId="219" filename="textures/terrain/ortho08_diffuse.png"/>
+    <File fileId="221" filename="textures/terrain/ortho09_diffuse.png"/>
+    <File fileId="223" filename="textures/terrain/ortho10_diffuse.png"/>
+    <File fileId="225" filename="textures/terrain/ortho11_diffuse.png"/>
+    <File fileId="227" filename="textures/terrain/ortho12_diffuse.png"/>
+    <File fileId="229" filename="textures/terrain/ortho13_diffuse.png"/>
+    <File fileId="231" filename="textures/terrain/ortho14_diffuse.png"/>
+    <File fileId="233" filename="textures/terrain/ortho15_diffuse.png"/>
+    <File fileId="235" filename="textures/terrain/ortho16_diffuse.png"/>
+    <File fileId="205" filename="textures/terrain/ortho_normal.png"/>
+    <File fileId="177" filename="textures/terrain/plate01_diffuse.png"/>
+    <File fileId="178" filename="textures/terrain/plate01_normal.png"/>
+    <File fileId="180" filename="textures/terrain/plate02_diffuse.png"/>
+    <File fileId="181" filename="textures/terrain/plate02_normal.png"/>
+    <File fileId="183" filename="textures/terrain/plate03_diffuse.png"/>
+    <File fileId="184" filename="textures/terrain/plate03_normal.png"/>
+    <File fileId="186" filename="textures/terrain/plate04_diffuse.png"/>
+    <File fileId="187" filename="textures/terrain/plate04_normal.png"/>
+    <File fileId="189" filename="textures/terrain/plateDamaged01_diffuse.png"/>
+    <File fileId="190" filename="textures/terrain/plateDamaged01_normal.png"/>
+    <File fileId="192" filename="textures/terrain/plateDamaged02_diffuse.png"/>
+    <File fileId="193" filename="textures/terrain/plateDamaged02_normal.png"/>
+    <File fileId="195" filename="textures/terrain/plateDamaged03_diffuse.png"/>
+    <File fileId="196" filename="textures/terrain/plateDamaged03_normal.png"/>
+    <File fileId="198" filename="textures/terrain/plateDamaged04_diffuse.png"/>
+    <File fileId="199" filename="textures/terrain/plateDamaged04_normal.png"/>
+    <File fileId="89" filename="textures/terrain/riverStoneBank01_diffuse.png"/>
+    <File fileId="90" filename="textures/terrain/riverStoneBank01_normal.png"/>
+    <File fileId="92" filename="textures/terrain/riverStoneBank02_diffuse.png"/>
+    <File fileId="93" filename="textures/terrain/riverStoneBank02_normal.png"/>
+    <File fileId="95" filename="textures/terrain/riverStoneBank03_diffuse.png"/>
+    <File fileId="96" filename="textures/terrain/riverStoneBank03_normal.png"/>
+    <File fileId="98" filename="textures/terrain/riverStoneBank04_diffuse.png"/>
+    <File fileId="99" filename="textures/terrain/riverStoneBank04_normal.png"/>
+    <File fileId="101" filename="textures/terrain/riverStoneBankWaterEdge_diffuse.png"/>
+    <File fileId="102" filename="textures/terrain/riverStoneBankWaterEdge_normal.png"/>
+    <File fileId="104" filename="textures/terrain/riverStoneBankWater_diffuse.png"/>
+    <File fileId="105" filename="textures/terrain/riverStoneBankWater_normal.png"/>
+    <File fileId="5" filename="textures/terrain/roughDirt01_diffuse.png"/>
+    <File fileId="6" filename="textures/terrain/roughDirt01_normal.png"/>
+    <File fileId="8" filename="textures/terrain/roughDirt02_diffuse.png"/>
+    <File fileId="9" filename="textures/terrain/roughDirt02_normal.png"/>
+    <File fileId="11" filename="textures/terrain/roughDirt03_diffuse.png"/>
+    <File fileId="12" filename="textures/terrain/roughDirt03_normal.png"/>
+    <File fileId="14" filename="textures/terrain/roughDirt04_diffuse.png"/>
+    <File fileId="15" filename="textures/terrain/roughDirt04_normal.png"/>
+    <File fileId="201" filename="textures/terrain/waterPuddle01_diffuse.png"/>
+    <File fileId="202" filename="textures/terrain/waterPuddle01_normal.png"/>
+    <File fileId="278" filename="$data/foliage/barley.xml"/>
+    <File fileId="318" filename="$data/foliage/bush01.xml"/>
+    <File fileId="271" filename="$data/foliage/canola.xml"/>
+    <File fileId="339" filename="$data/foliage/cotton.xml"/>
+    <File fileId="286" filename="$data/foliage/decoFoliage.xml"/>
+    <File fileId="242" filename="$data/foliage/distance/acre_fine_distance_diffuse.png"/>
+    <File fileId="243" filename="$data/foliage/distance/acre_plantedRows_distance_diffuse.png"/>
+    <File fileId="272" filename="$data/foliage/distance/foliage_barley_distance2_diffuse.png"/>
+    <File fileId="273" filename="$data/foliage/distance/foliage_barley_distance3_diffuse.png"/>
+    <File fileId="274" filename="$data/foliage/distance/foliage_barley_distance4_diffuse.png"/>
+    <File fileId="275" filename="$data/foliage/distance/foliage_barley_distance5_diffuse.png"/>
+    <File fileId="276" filename="$data/foliage/distance/foliage_barley_distance6_diffuse.png"/>
+    <File fileId="277" filename="$data/foliage/distance/foliage_barley_distance7_diffuse.png"/>
+    <File fileId="300" filename="$data/foliage/distance/foliage_beet_haulm_distance_diffuse.png"/>
+    <File fileId="265" filename="$data/foliage/distance/foliage_canola_distance2_diffuse.png"/>
+    <File fileId="266" filename="$data/foliage/distance/foliage_canola_distance3_diffuse.png"/>
+    <File fileId="267" filename="$data/foliage/distance/foliage_canola_distance4_diffuse.png"/>
+    <File fileId="268" filename="$data/foliage/distance/foliage_canola_distance5_diffuse.png"/>
+    <File fileId="269" filename="$data/foliage/distance/foliage_canola_distance6_diffuse.png"/>
+    <File fileId="270" filename="$data/foliage/distance/foliage_canola_distance7_diffuse.png"/>
+    <File fileId="333" filename="$data/foliage/distance/foliage_cotton_distance2_diffuse.png"/>
+    <File fileId="334" filename="$data/foliage/distance/foliage_cotton_distance3_diffuse.png"/>
+    <File fileId="335" filename="$data/foliage/distance/foliage_cotton_distance4_diffuse.png"/>
+    <File fileId="336" filename="$data/foliage/distance/foliage_cotton_distance5_diffuse.png"/>
+    <File fileId="337" filename="$data/foliage/distance/foliage_cotton_distance6_diffuse.png"/>
+    <File fileId="338" filename="$data/foliage/distance/foliage_cotton_distance7_diffuse.png"/>
+    <File fileId="279" filename="$data/foliage/distance/foliage_maize_distance2_diffuse.png"/>
+    <File fileId="280" filename="$data/foliage/distance/foliage_maize_distance3_diffuse.png"/>
+    <File fileId="281" filename="$data/foliage/distance/foliage_maize_distance4_diffuse.png"/>
+    <File fileId="282" filename="$data/foliage/distance/foliage_maize_distance5_diffuse.png"/>
+    <File fileId="283" filename="$data/foliage/distance/foliage_maize_distance6_diffuse.png"/>
+    <File fileId="284" filename="$data/foliage/distance/foliage_maize_distance7_diffuse.png"/>
+    <File fileId="319" filename="$data/foliage/distance/foliage_oat_distance2_diffuse.png"/>
+    <File fileId="320" filename="$data/foliage/distance/foliage_oat_distance3_diffuse.png"/>
+    <File fileId="321" filename="$data/foliage/distance/foliage_oat_distance4_diffuse.png"/>
+    <File fileId="322" filename="$data/foliage/distance/foliage_oat_distance5_diffuse.png"/>
+    <File fileId="323" filename="$data/foliage/distance/foliage_oat_distance6_diffuse.png"/>
+    <File fileId="324" filename="$data/foliage/distance/foliage_oat_distance7_diffuse.png"/>
+    <File fileId="315" filename="$data/foliage/distance/foliage_oilseed_distance2_diffuse.png"/>
+    <File fileId="287" filename="$data/foliage/distance/foliage_potato_distance2_diffuse.png"/>
+    <File fileId="288" filename="$data/foliage/distance/foliage_potato_distance3_diffuse.png"/>
+    <File fileId="289" filename="$data/foliage/distance/foliage_potato_distance4_diffuse.png"/>
+    <File fileId="290" filename="$data/foliage/distance/foliage_potato_distance5_diffuse.png"/>
+    <File fileId="291" filename="$data/foliage/distance/foliage_potato_distance6_diffuse.png"/>
+    <File fileId="293" filename="$data/foliage/distance/foliage_potato_haulm_distance_diffuse.png"/>
+    <File fileId="308" filename="$data/foliage/distance/foliage_soybean_distance2_diffuse.png"/>
+    <File fileId="309" filename="$data/foliage/distance/foliage_soybean_distance3_diffuse.png"/>
+    <File fileId="310" filename="$data/foliage/distance/foliage_soybean_distance4_diffuse.png"/>
+    <File fileId="311" filename="$data/foliage/distance/foliage_soybean_distance5_diffuse.png"/>
+    <File fileId="312" filename="$data/foliage/distance/foliage_soybean_distance6_diffuse.png"/>
+    <File fileId="313" filename="$data/foliage/distance/foliage_soybean_distance7_diffuse.png"/>
+    <File fileId="294" filename="$data/foliage/distance/foliage_sugarBeet_distance2_diffuse.png"/>
+    <File fileId="295" filename="$data/foliage/distance/foliage_sugarBeet_distance3_diffuse.png"/>
+    <File fileId="296" filename="$data/foliage/distance/foliage_sugarBeet_distance4_diffuse.png"/>
+    <File fileId="297" filename="$data/foliage/distance/foliage_sugarBeet_distance5_diffuse.png"/>
+    <File fileId="298" filename="$data/foliage/distance/foliage_sugarBeet_distance6_diffuse.png"/>
+    <File fileId="326" filename="$data/foliage/distance/foliage_sugarCane_distance2_diffuse.png"/>
+    <File fileId="327" filename="$data/foliage/distance/foliage_sugarCane_distance3_diffuse.png"/>
+    <File fileId="328" filename="$data/foliage/distance/foliage_sugarCane_distance4_diffuse.png"/>
+    <File fileId="329" filename="$data/foliage/distance/foliage_sugarCane_distance5_diffuse.png"/>
+    <File fileId="330" filename="$data/foliage/distance/foliage_sugarCane_distance6_diffuse.png"/>
+    <File fileId="331" filename="$data/foliage/distance/foliage_sugarCane_distance7_diffuse.png"/>
+    <File fileId="301" filename="$data/foliage/distance/foliage_sunflower_distance2_diffuse.png"/>
+    <File fileId="302" filename="$data/foliage/distance/foliage_sunflower_distance3_diffuse.png"/>
+    <File fileId="303" filename="$data/foliage/distance/foliage_sunflower_distance4_diffuse.png"/>
+    <File fileId="304" filename="$data/foliage/distance/foliage_sunflower_distance5_diffuse.png"/>
+    <File fileId="305" filename="$data/foliage/distance/foliage_sunflower_distance6_diffuse.png"/>
+    <File fileId="306" filename="$data/foliage/distance/foliage_sunflower_distance7_diffuse.png"/>
+    <File fileId="257" filename="$data/foliage/distance/foliage_wheat_distance2_diffuse.png"/>
+    <File fileId="258" filename="$data/foliage/distance/foliage_wheat_distance3_diffuse.png"/>
+    <File fileId="259" filename="$data/foliage/distance/foliage_wheat_distance4_diffuse.png"/>
+    <File fileId="260" filename="$data/foliage/distance/foliage_wheat_distance5_diffuse.png"/>
+    <File fileId="261" filename="$data/foliage/distance/foliage_wheat_distance6_diffuse.png"/>
+    <File fileId="262" filename="$data/foliage/distance/foliage_wheat_distance7_diffuse.png"/>
+    <File fileId="264" filename="$data/foliage/grassDE.xml"/>
+    <File fileId="285" filename="$data/foliage/maize.xml"/>
+    <File fileId="325" filename="$data/foliage/oat.xml"/>
+    <File fileId="316" filename="$data/foliage/oilseedRadish.xml"/>
+    <File fileId="317" filename="$data/foliage/poplar.xml"/>
+    <File fileId="292" filename="$data/foliage/potato.xml"/>
+    <File fileId="314" filename="$data/foliage/soybean.xml"/>
+    <File fileId="299" filename="$data/foliage/sugarBeet.xml"/>
+    <File fileId="332" filename="$data/foliage/sugarCane.xml"/>
+    <File fileId="307" filename="$data/foliage/sunflower.xml"/>
+    <File fileId="341" filename="$data/foliage/weed.xml"/>
+    <File fileId="263" filename="$data/foliage/wheat.xml"/>
+    <File fileId="4" filename="$data/maps/textures/terrain/ground/distance/acre_fine_distance_diffuse.png"/>
+    <File fileId="247" filename="$data/maps/textures/terrain/ground/distance/acre_fine_sprayed_distance_diffuse.png"/>
+    <File fileId="244" filename="$data/maps/textures/terrain/ground/distance/acre_grass_distance_diffuse.png"/>
+    <File fileId="249" filename="$data/maps/textures/terrain/ground/distance/acre_grass_sprayed_distance_diffuse.png"/>
+    <File fileId="248" filename="$data/maps/textures/terrain/ground/distance/acre_plantedRows_sprayed_distance_diffuse.png"/>
+    <File fileId="246" filename="$data/maps/textures/terrain/ground/distance/acre_sprayed_distance_diffuse.png"/>
+    <File fileId="240" filename="$data/maps/textures/terrain/ground/distance/cultivator_distance_diffuse.png"/>
+    <File fileId="245" filename="$data/maps/textures/terrain/ground/distance/cultivator_sprayed_distance_diffuse.png"/>
+    <File fileId="250" filename="$data/maps/textures/terrain/ground/ground_diffuse.png"/>
+    <File fileId="251" filename="$data/maps/textures/terrain/ground/ground_normal.png"/>
+    <File fileId="254" filename="$data/shaders/groundHeightShader.xml"/>
+    <File fileId="252" filename="$data/shaders/groundShader.xml"/>
+    <File fileId="2" filename="$data/shaders/terrainShader.xml"/>
+  </Files>
+
+
+  <Materials>
+    <Material name="groundDetail_mat" materialId="5" customShaderId="252">
+      <Texture fileId="250"/>
+      <Normalmap fileId="251"/>
+      <CustomParameter name="dirtAndTextureUVScaleOffset" value="0.04 0.04 0.1875 0.071429"/>
+      <CustomParameter name="alphaBlendStartEnd" value="75 80 0 0"/>
+      <CustomParameter name="terrainSizeInvSizeScaleXZScaleY" value="2048 0.000488281 2 0.00389105"/>
+    </Material>
+    <Material name="groundDetailHeight_mat" materialId="6" customShaderId="254">
+      <Texture fileId="250"/>
+      <Normalmap fileId="251"/>
+      <CustomParameter name="dirtAndTextureUVScale" value="0.04 0.04 1.6 0"/>
+      <CustomParameter name="alphaBlendStartEnd" value="75 80 0 0"/>
+      <CustomParameter name="terrainSizeInvSizeScaleXZScaleY" value="4096 0.000244141 1 0.00389105"/>
+    </Material>
+    <Material name="terrainMaterial_mat" materialId="4" customShaderId="2">
+      <CustomParameter name="terrainLodBlendInfos" value="0 0 0 0"/>
+      <CustomParameter name="terrainSizeInvSizeScaleXZScaleY" value="0 0 0 0"/>
+      <CustomParameter name="terrainPatchOffset" value="0 0 0 0"/>
+    </Material>
+  </Materials>
+
+
+  <Shapes>
+  </Shapes>
+
+
+  <Dynamics>
+  </Dynamics>
+
+  <Scene>
+    <Camera name="persp" translation="-1850.79 122.274 1198.45" rotation="158.48 -69.3737 -180" nodeId="8" fov="54.4322" nearClip="0.1" farClip="10000" orthographicHeight="1"/>
+    <Light name="sun" translation="6.10352e-05 400 6.10352e-05" rotation="-35.393 51.396 20.8053" objectMask="67043328" nodeId="9" type="directional" color="1 1 1" emitDiffuse="true" emitSpecular="true" castShadowMap="true" depthMapBias="0.001" depthMapSlopeScaleBias="2" depthMapSlopeClamp="0.001" depthMapResolution="2048" shadowFarDistance="400" shadowExtrusionDistance="320" shadowPerspective="false" numShadowMapSplits="3" shadowMapSplitDistance0="30" shadowMapSplitDistance1="80" shadowMapSplitDistance2="400" shadowMapSplitDistance3="400" decayRate="1" range="10000" scattering="true"/>
+    <TerrainTransformGroup name="terrain" translation="0 0 6.10352e-05" rotation="0 0 1.70755e-06" static="true" collisionMask="524255" nodeId="11" heightMapId="1" patchSize="65" maxLODDistance="750" heightScale="255" unitsPerPixel="2" lodBlendStart="200" lodBlendEnd="300" lodTextureSize="4096" lodBlendStartDynamic="50" lodBlendEndDynamic="65" materialId="4" castShadowMap="true">
+      <Layers>
+        <Layer name="roughDirt01" detailMapId="5" normalMapId="6" unitSize="1.5" weightMapId="3" blendContrast="0.2" distanceMapId="4" attributes="0.155 0.082 0.037 1 1" priority="2"/>
+        <Layer name="roughDirt02" detailMapId="8" normalMapId="9" unitSize="1.5" weightMapId="7" blendContrast="0.2" distanceMapId="4" attributes="0.155 0.082 0.037 1 1" priority="2"/>
+        <Layer name="roughDirt03" detailMapId="11" normalMapId="12" unitSize="1.5" weightMapId="10" blendContrast="0.2" distanceMapId="4" attributes="0.155 0.082 0.037 1 1" priority="2"/>
+        <Layer name="roughDirt04" detailMapId="14" normalMapId="15" unitSize="1.5" weightMapId="13" blendContrast="0.2" distanceMapId="4" attributes="0.155 0.082 0.037 1 1" priority="2"/>
+        <Layer name="grassRough01" detailMapId="17" normalMapId="18" unitSize="1.5" weightMapId="16" blendContrast="0.2" distanceMapId="4" attributes="0.208 0.11 0.056 1 2" priority="0"/>
+        <Layer name="grassRough02" detailMapId="20" normalMapId="21" unitSize="1.5" weightMapId="19" blendContrast="0.2" distanceMapId="4" attributes="0.208 0.11 0.056 1 2" priority="0"/>
+        <Layer name="grassRough03" detailMapId="23" normalMapId="24" unitSize="1.5" weightMapId="22" blendContrast="0.2" distanceMapId="4" attributes="0.208 0.11 0.056 1 2" priority="0"/>
+        <Layer name="grassRough04" detailMapId="26" normalMapId="27" unitSize="1.5" weightMapId="25" blendContrast="0.2" distanceMapId="4" attributes="0.208 0.11 0.056 1 2" priority="0"/>
+        <Layer name="grassTown01" detailMapId="29" normalMapId="30" unitSize="1.5" weightMapId="28" blendContrast="0.2" distanceMapId="4" attributes="0.208 0.11 0.056 1 2" priority="0"/>
+        <Layer name="grassTown02" detailMapId="32" normalMapId="33" unitSize="1.5" weightMapId="31" blendContrast="0.2" distanceMapId="4" attributes="0.208 0.11 0.056 1 2" priority="0"/>
+        <Layer name="grassTown03" detailMapId="35" normalMapId="36" unitSize="1.5" weightMapId="34" blendContrast="0.2" distanceMapId="4" attributes="0.208 0.11 0.056 1 2" priority="0"/>
+        <Layer name="grassTown04" detailMapId="38" normalMapId="39" unitSize="1.5" weightMapId="37" blendContrast="0.2" distanceMapId="4" attributes="0.208 0.11 0.056 1 2" priority="0"/>
+        <Layer name="grass01" detailMapId="41" normalMapId="42" unitSize="1.5" weightMapId="40" blendContrast="0.2" distanceMapId="4" attributes="0.208 0.11 0.056 1 2" priority="0"/>
+        <Layer name="grass02" detailMapId="44" normalMapId="45" unitSize="1.5" weightMapId="43" blendContrast="0.2" distanceMapId="4" attributes="0.208 0.11 0.056 1 2" priority="0"/>
+        <Layer name="grass03" detailMapId="47" normalMapId="48" unitSize="1.5" weightMapId="46" blendContrast="0.2" distanceMapId="4" attributes="0.208 0.11 0.056 1 2" priority="0"/>
+        <Layer name="grass04" detailMapId="50" normalMapId="51" unitSize="1.5" weightMapId="49" blendContrast="0.2" distanceMapId="4" attributes="0.208 0.11 0.056 1 2" priority="0"/>
+        <Layer name="mountainRock01" detailMapId="53" normalMapId="54" unitSize="6" weightMapId="52" blendContrast="0.2" distanceMapId="4" attributes="0.167 0.163 0.159 0 7" priority="7"/>
+        <Layer name="mountainRock02" detailMapId="56" normalMapId="57" unitSize="6" weightMapId="55" blendContrast="0.2" distanceMapId="4" attributes="0.167 0.163 0.159 0 7" priority="7"/>
+        <Layer name="mountainRock03" detailMapId="59" normalMapId="60" unitSize="6" weightMapId="58" blendContrast="0.2" distanceMapId="4" attributes="0.167 0.163 0.159 0 7" priority="7"/>
+        <Layer name="mountainRock04" detailMapId="62" normalMapId="63" unitSize="6" weightMapId="61" blendContrast="0.2" distanceMapId="4" attributes="0.167 0.163 0.159 0 7" priority="7"/>
+        <Layer name="mountainRockDark01" detailMapId="65" normalMapId="66" unitSize="6" weightMapId="64" blendContrast="0.2" distanceMapId="4" attributes="0.167 0.163 0.159 0 7" priority="7"/>
+        <Layer name="mountainRockDark02" detailMapId="68" normalMapId="69" unitSize="6" weightMapId="67" blendContrast="0.2" distanceMapId="4" attributes="0.167 0.163 0.159 0 7" priority="7"/>
+        <Layer name="mountainRockDark03" detailMapId="71" normalMapId="72" unitSize="6" weightMapId="70" blendContrast="0.2" distanceMapId="4" attributes="0.167 0.163 0.159 0 7" priority="7"/>
+        <Layer name="mountainRockDark04" detailMapId="74" normalMapId="75" unitSize="6" weightMapId="73" blendContrast="0.2" distanceMapId="4" attributes="0.167 0.163 0.159 0 7" priority="7"/>
+        <Layer name="beachSandWet01" detailMapId="77" normalMapId="78" unitSize="1.5" weightMapId="76" blendContrast="0.2" distanceMapId="4" attributes="0.901 0.613 0.365 1 3" priority="3"/>
+        <Layer name="beachSandWet02" detailMapId="80" normalMapId="81" unitSize="1.5" weightMapId="79" blendContrast="0.2" distanceMapId="4" attributes="0.901 0.613 0.365 1 3" priority="3"/>
+        <Layer name="beachSandWet03" detailMapId="83" normalMapId="84" unitSize="1.5" weightMapId="82" blendContrast="0.2" distanceMapId="4" attributes="0.901 0.613 0.365 1 3" priority="3"/>
+        <Layer name="beachSandWet04" detailMapId="86" normalMapId="87" unitSize="1.5" weightMapId="85" blendContrast="0.2" distanceMapId="4" attributes="0.901 0.613 0.365 1 3" priority="3"/>
+        <Layer name="riverBank01" detailMapId="89" normalMapId="90" unitSize="1.2" weightMapId="88" blendContrast="0.2" distanceMapId="4" attributes="0.901 0.613 0.365 1 3" priority="3"/>
+        <Layer name="riverBank02" detailMapId="92" normalMapId="93" unitSize="1.2" weightMapId="91" blendContrast="0.2" distanceMapId="4" attributes="0.901 0.613 0.365 1 3" priority="3"/>
+        <Layer name="riverBank03" detailMapId="95" normalMapId="96" unitSize="1.2" weightMapId="94" blendContrast="0.2" distanceMapId="4" attributes="0.901 0.613 0.365 1 3" priority="3"/>
+        <Layer name="riverBank04" detailMapId="98" normalMapId="99" unitSize="1.2" weightMapId="97" blendContrast="0.2" distanceMapId="4" attributes="0.901 0.613 0.365 1 3" priority="3"/>
+        <Layer name="riverBankWaterEdge01" detailMapId="101" normalMapId="102" unitSize="1.2" weightMapId="100" blendContrast="0.2" distanceMapId="4" attributes="0.901 0.613 0.365 1 3" priority="3"/>
+        <Layer name="riverBankWater01" detailMapId="104" normalMapId="105" unitSize="1.2" weightMapId="103" blendContrast="0.2" distanceMapId="4" attributes="0.901 0.613 0.365 1 3" priority="3"/>
+        <Layer name="gravel01" detailMapId="107" normalMapId="108" unitSize="1.5" weightMapId="106" blendContrast="0.2" distanceMapId="4" attributes="0.443 0.424 0.42 0.6 1" priority="4"/>
+        <Layer name="gravel02" detailMapId="110" normalMapId="111" unitSize="1.5" weightMapId="109" blendContrast="0.2" distanceMapId="4" attributes="0.443 0.424 0.42 0.6 1" priority="4"/>
+        <Layer name="gravel03" detailMapId="113" normalMapId="114" unitSize="1.5" weightMapId="112" blendContrast="0.2" distanceMapId="4" attributes="0.443 0.424 0.42 0.6 1" priority="4"/>
+        <Layer name="gravel04" detailMapId="116" normalMapId="117" unitSize="1.5" weightMapId="115" blendContrast="0.2" distanceMapId="4" attributes="0.443 0.424 0.42 0.6 1" priority="4"/>
+        <Layer name="concrete01" detailMapId="119" normalMapId="120" unitSize="1.5" weightMapId="118" blendContrast="0.2" distanceMapId="4" attributes="0.408 0.412 0.4 0 7" priority="6"/>
+        <Layer name="concrete02" detailMapId="122" normalMapId="123" unitSize="1.5" weightMapId="121" blendContrast="0.2" distanceMapId="4" attributes="0.408 0.412 0.4 0 7" priority="6"/>
+        <Layer name="concrete03" detailMapId="125" normalMapId="126" unitSize="1.5" weightMapId="124" blendContrast="0.2" distanceMapId="4" attributes="0.408 0.412 0.4 0 7" priority="6"/>
+        <Layer name="concrete04" detailMapId="128" normalMapId="129" unitSize="1.5" weightMapId="127" blendContrast="0.2" distanceMapId="4" attributes="0.408 0.412 0.4 0 7" priority="6"/>
+        <Layer name="concreteGravel01" detailMapId="131" normalMapId="132" unitSize="1.5" weightMapId="130" blendContrast="0.2" distanceMapId="4" attributes="0.408 0.412 0.4 0 7" priority="6"/>
+        <Layer name="concreteDirt01" detailMapId="134" normalMapId="135" unitSize="1.5" weightMapId="133" blendContrast="0.2" distanceMapId="4" attributes="0.408 0.412 0.4 0 7" priority="6"/>
+        <Layer name="forestLeaves01" detailMapId="137" normalMapId="138" unitSize="1.5" weightMapId="136" blendContrast="0.2" distanceMapId="4" attributes="0.034 0.016 0.008 0.8 5" priority="1"/>
+        <Layer name="forestLeaves02" detailMapId="140" normalMapId="141" unitSize="1.5" weightMapId="139" blendContrast="0.2" distanceMapId="4" attributes="0.034 0.016 0.008 0.8 5" priority="1"/>
+        <Layer name="forestLeaves03" detailMapId="143" normalMapId="144" unitSize="1.5" weightMapId="142" blendContrast="0.2" distanceMapId="4" attributes="0.034 0.016 0.008 0.8 5" priority="1"/>
+        <Layer name="forestLeaves04" detailMapId="146" normalMapId="147" unitSize="1.5" weightMapId="145" blendContrast="0.2" distanceMapId="4" attributes="0.034 0.016 0.008 0.8 5" priority="1"/>
+        <Layer name="forestNeedles01" detailMapId="137" normalMapId="138" unitSize="1.5" weightMapId="148" blendContrast="0.2" distanceMapId="4" attributes="0.034 0.016 0.008 0.8 5" priority="1"/>
+        <Layer name="forestNeedles02" detailMapId="140" normalMapId="141" unitSize="1.5" weightMapId="149" blendContrast="0.2" distanceMapId="4" attributes="0.034 0.016 0.008 0.8 5" priority="1"/>
+        <Layer name="forestNeedles03" detailMapId="143" normalMapId="144" unitSize="1.5" weightMapId="150" blendContrast="0.2" distanceMapId="4" attributes="0.034 0.016 0.008 0.8 5" priority="1"/>
+        <Layer name="forestNeedles04" detailMapId="146" normalMapId="147" unitSize="1.5" weightMapId="151" blendContrast="0.2" distanceMapId="4" attributes="0.034 0.016 0.008 0.8 5" priority="1"/>
+        <Layer name="animalMud01" detailMapId="153" normalMapId="154" unitSize="1.5" weightMapId="152" blendContrast="0.2" distanceMapId="4" attributes="0.155 0.082 0.037 1 1" priority="0"/>
+        <Layer name="animalMud02" detailMapId="156" normalMapId="157" unitSize="1.5" weightMapId="155" blendContrast="0.2" distanceMapId="4" attributes="0.155 0.082 0.037 1 1" priority="0"/>
+        <Layer name="animalMud03" detailMapId="159" normalMapId="160" unitSize="1.5" weightMapId="158" blendContrast="0.2" distanceMapId="4" attributes="0.155 0.082 0.037 1 1" priority="0"/>
+        <Layer name="animalMud04" detailMapId="162" normalMapId="163" unitSize="1.5" weightMapId="161" blendContrast="0.2" distanceMapId="4" attributes="0.155 0.082 0.037 1 1" priority="0"/>
+        <Layer name="asphalt01" detailMapId="165" normalMapId="166" unitSize="1.5" weightMapId="164" blendContrast="0.2" distanceMapId="4" attributes="0.408 0.412 0.4 0 7" priority="6"/>
+        <Layer name="asphalt02" detailMapId="168" normalMapId="169" unitSize="1.5" weightMapId="167" blendContrast="0.2" distanceMapId="4" attributes="0.408 0.412 0.4 0 7" priority="6"/>
+        <Layer name="asphalt03" detailMapId="171" normalMapId="172" unitSize="1.5" weightMapId="170" blendContrast="0.2" distanceMapId="4" attributes="0.408 0.412 0.4 0 7" priority="6"/>
+        <Layer name="asphalt04" detailMapId="174" normalMapId="175" unitSize="1.5" weightMapId="173" blendContrast="0.2" distanceMapId="4" attributes="0.408 0.412 0.4 0 7" priority="6"/>
+        <Layer name="plate01" detailMapId="177" normalMapId="178" unitSize="2" weightMapId="176" blendContrast="0.2" distanceMapId="4" attributes="0.408 0.412 0.4 0 7" priority="6"/>
+        <Layer name="plate02" detailMapId="180" normalMapId="181" unitSize="2" weightMapId="179" blendContrast="0.2" distanceMapId="4" attributes="0.408 0.412 0.4 0 7" priority="6"/>
+        <Layer name="plate03" detailMapId="183" normalMapId="184" unitSize="2" weightMapId="182" blendContrast="0.2" distanceMapId="4" attributes="0.408 0.412 0.4 0 7" priority="6"/>
+        <Layer name="plate04" detailMapId="186" normalMapId="187" unitSize="2" weightMapId="185" blendContrast="0.2" distanceMapId="4" attributes="0.408 0.412 0.4 0 7" priority="6"/>
+        <Layer name="plateDamaged01" detailMapId="189" normalMapId="190" unitSize="2" weightMapId="188" blendContrast="0.2" distanceMapId="4" attributes="0.408 0.412 0.4 0 7" priority="6"/>
+        <Layer name="plateDamaged02" detailMapId="192" normalMapId="193" unitSize="2" weightMapId="191" blendContrast="0.2" distanceMapId="4" attributes="0.408 0.412 0.4 0 7" priority="6"/>
+        <Layer name="plateDamaged03" detailMapId="195" normalMapId="196" unitSize="2" weightMapId="194" blendContrast="0.2" distanceMapId="4" attributes="0.408 0.412 0.4 0 7" priority="6"/>
+        <Layer name="plateDamaged04" detailMapId="198" normalMapId="199" unitSize="2" weightMapId="197" blendContrast="0.2" distanceMapId="4" attributes="0.408 0.412 0.4 0 7" priority="6"/>
+        <Layer name="waterPuddle01" detailMapId="201" normalMapId="202" unitSize="1.5" weightMapId="200" blendContrast="0.5" distanceMapId="4" attributes="0.155 0.082 0.037 1 1" priority="0"/>
+        <Layer name="ortho01" detailMapId="204" normalMapId="205" unitSize="1024" weightMapId="203" blendContrast="0.2" attributes="0.208 0.11 0.056 1 2" priority="0"/>
+        <Layer name="ortho02" detailMapId="207" normalMapId="205" unitSize="1024" weightMapId="206" blendContrast="0.2" attributes="0.208 0.11 0.056 1 2" priority="0"/>
+        <Layer name="ortho03" detailMapId="209" normalMapId="205" unitSize="1024" weightMapId="208" blendContrast="0.2" attributes="0.208 0.11 0.056 1 2" priority="0"/>
+        <Layer name="ortho04" detailMapId="211" normalMapId="205" unitSize="1024" weightMapId="210" blendContrast="0.2" attributes="0.208 0.11 0.056 1 2" priority="0"/>
+        <Layer name="ortho05" detailMapId="213" normalMapId="205" unitSize="1024" weightMapId="212" blendContrast="0.2" attributes="0.208 0.11 0.056 1 2" priority="0"/>
+        <Layer name="ortho06" detailMapId="215" normalMapId="205" unitSize="1024" weightMapId="214" blendContrast="0.2" attributes="0.208 0.11 0.056 1 2" priority="0"/>
+        <Layer name="ortho07" detailMapId="217" normalMapId="205" unitSize="1024" weightMapId="216" blendContrast="0.2" attributes="0.208 0.11 0.056 1 2" priority="0"/>
+        <Layer name="ortho08" detailMapId="219" normalMapId="205" unitSize="1024" weightMapId="218" blendContrast="0.2" attributes="0.208 0.11 0.056 1 2" priority="0"/>
+        <Layer name="ortho09" detailMapId="221" normalMapId="205" unitSize="1024" weightMapId="220" blendContrast="0.2" attributes="0.208 0.11 0.056 1 2" priority="0"/>
+        <Layer name="ortho10" detailMapId="223" normalMapId="205" unitSize="1024" weightMapId="222" blendContrast="0.2" attributes="0.208 0.11 0.056 1 2" priority="0"/>
+        <Layer name="ortho11" detailMapId="225" normalMapId="205" unitSize="1024" weightMapId="224" blendContrast="0.2" attributes="0.208 0.11 0.056 1 2" priority="0"/>
+        <Layer name="ortho12" detailMapId="227" normalMapId="205" unitSize="1024" weightMapId="226" blendContrast="0.2" attributes="0.208 0.11 0.056 1 2" priority="0"/>
+        <Layer name="ortho13" detailMapId="229" normalMapId="205" unitSize="1024" weightMapId="228" blendContrast="0.2" attributes="0.208 0.11 0.056 1 2" priority="0"/>
+        <Layer name="ortho14" detailMapId="231" normalMapId="205" unitSize="1024" weightMapId="230" blendContrast="0.2" attributes="0.208 0.11 0.056 1 2" priority="0"/>
+        <Layer name="ortho15" detailMapId="233" normalMapId="205" unitSize="1024" weightMapId="232" blendContrast="0.2" attributes="0.208 0.11 0.056 1 2" priority="0"/>
+        <Layer name="ortho16" detailMapId="235" normalMapId="205" unitSize="1024" weightMapId="234" blendContrast="0.2" attributes="0.208 0.11 0.056 1 2" priority="0"/>
+        <CombinedLayer name="ROUGHDIRT" layers="roughDirt01;roughDirt02;roughDirt03;roughDirt04" noiseFrequency="2"/>
+        <CombinedLayer name="ANIMALMUD" layers="animalMud01;animalMud02;animalMud03;animalMud04" noiseFrequency="2"/>
+        <CombinedLayer name="GRASS" layers="grass01;grass02;grass03;grass04" noiseFrequency="2"/>
+        <CombinedLayer name="GRASSTOWN" layers="grassTown01;grassTown02;grassTown03;grassTown04" noiseFrequency="2"/>
+        <CombinedLayer name="GRASSROUGH" layers="grassRough01;grassRough02;grassRough03;grassRough04" noiseFrequency="2"/>
+        <CombinedLayer name="MOUNTAINROCK" layers="mountainRock01;mountainRock02;mountainRock03;mountainRock04" noiseFrequency="2"/>
+        <CombinedLayer name="MOUNTAINROCKDARK" layers="mountainRockDark01;mountainRockDark02;mountainRockDark03;mountainRockDark04" noiseFrequency="2"/>
+        <CombinedLayer name="FORESTLEAVES" layers="forestLeaves01;forestLeaves02;forestLeaves03;forestLeaves04" noiseFrequency="2"/>
+        <CombinedLayer name="FORESTNEEDLES" layers="forestNeedles01;forestNeedles02;forestNeedles03;forestNeedles04" noiseFrequency="2"/>
+        <CombinedLayer name="SANDWET" layers="beachSandWet01;beachSandWet02;beachSandWet03;beachSandWet04" noiseFrequency="2"/>
+        <CombinedLayer name="RIVERBANK" layers="riverBank01;riverBank02;riverBank03;riverBank04" noiseFrequency="2"/>
+        <CombinedLayer name="ASPHALT" layers="asphalt01;asphalt02;asphalt03;asphalt04" noiseFrequency="2"/>
+        <CombinedLayer name="CONCRETE" layers="concrete01;concrete02;concrete03;concrete04" noiseFrequency="2"/>
+        <CombinedLayer name="GRAVEL" layers="gravel01;gravel02;gravel03;gravel04" noiseFrequency="2"/>
+        <CombinedLayer name="PLATE" layers="plate01;plate02;plate03;plate04" noiseFrequency="2"/>
+        <CombinedLayer name="PLATEDAMAGED" layers="plateDamaged01;plateDamaged02;plateDamaged03;plateDamaged04" noiseFrequency="2"/>
+        <LayerCombiner defaultDepthScale="0" defaultSharpness="1">
+        </LayerCombiner>
+        <InfoLayer name="tipCol" fileId="236" numChannels="1" runtime="true"/>
+        <InfoLayer name="farmland" fileId="237" numChannels="6"/>
+        <InfoLayer name="mud" fileId="238" numChannels="2"/>
+        <DetailLayer name="terrainDetail" densityMapId="239" numDensityMapChannels="13" compressionChannels="5" cellSize="8" objectMask="16711935" decalLayer="1" distanceMapIds="240;241;242;243;244;;;;245;246;247;248;249;;;;245;246;247;248;249;;;;245;246;247;248;249" distanceMapFirstChannel="0" distanceMapNumChannels="5" materialId="5" viewDistance="75" blendOutDistance="5" densityMapShaderNames="blendMap;blendMap2" combinedValuesChannels="0 3 0;6 2 0;3 3 1" useInterpolatedDensityMap="false;false"/>
+        <DetailLayer name="terrainDetailHeight" densityMapId="253" numDensityMapChannels="11" compressionChannels="5" cellSize="8" objectMask="16711935" decalLayer="2" materialId="6" viewDistance="75" blendOutDistance="5" densityMapShaderNames="blendMap" combinedValuesChannels="0 5 0;5 6 0" useInterpolatedDensityMap="false" heightFirstChannel="5" heightNumChannels="6" maxHeight="4"/>
+        <FoliageMultiLayer densityMapId="256" numChannels="10" numTypeIndexChannels="5" compressionChannels="5">
+          <FoliageType name="wheat" foliageXmlId="263"/>
+          <FoliageType name="grass" foliageXmlId="264"/>
+          <FoliageType name="canola" foliageXmlId="271"/>
+          <FoliageType name="barley" foliageXmlId="278"/>
+          <FoliageType name="maize" foliageXmlId="285"/>
+          <FoliageType name="decoFoliage" foliageXmlId="286"/>
+          <FoliageType name="potato" foliageXmlId="292"/>
+          <FoliageType name="sugarBeet" foliageXmlId="299"/>
+          <FoliageType name="sunflower" foliageXmlId="307"/>
+          <FoliageType name="soybean" foliageXmlId="314"/>
+          <FoliageType name="oilseedRadish" foliageXmlId="316"/>
+          <FoliageType name="poplar" foliageXmlId="317"/>
+          <FoliageType name="bush01" foliageXmlId="318"/>
+          <FoliageType name="oat" foliageXmlId="325"/>
+          <FoliageType name="sugarCane" foliageXmlId="332"/>
+          <FoliageType name="cotton" foliageXmlId="339"/>
+        </FoliageMultiLayer>
+        <FoliageMultiLayer densityMapId="340" numChannels="3" numTypeIndexChannels="0">
+          <FoliageType name="weed" foliageXmlId="341"/>
+        </FoliageMultiLayer>
+      </Layers>
+    </TerrainTransformGroup>
+    <TransformGroup name="careerStartPoint" translation="9.65914 66.9339 267.754" rotation="-180 -68.7699 -180" nodeId="2065"/>
+  </Scene>
+
+  <UserAttributes>
+    <UserAttribute nodeId="9">
+      <Attribute name="onCreate" type="scriptCallback" value="Environment.onCreateSunLight"/>
+    </UserAttribute>
+    <UserAttribute nodeId="2065">
+      <Attribute name="onCreate" type="scriptCallback" value="Mission00.onCreateStartPoint"/>
+    </UserAttribute>
+  </UserAttributes>
+
+</i3D>

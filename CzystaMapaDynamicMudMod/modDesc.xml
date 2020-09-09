@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no" ?>
+<modDesc descVersion="40">
+    <author>AlienTv</author>
+    <version>1.0.0.1</version>
+    <title>
+        <en>Czysta Mapa Do Edycji</en>
+        <de>Czysta Mapa Do Edycji</de>
+    </title>
+    <description>
+        <en>Czysta Mapa Do Edycji z Błotem</en>
+        <de>Czysta Mapa Do Edycji z Błotem</de>
+    </description>
+    <iconFilename>icon.png</iconFilename>
+    <multiplayer supported="true"/>
+    <maps>
+        <map id="SampleModMap" className="Mission00" filename="$dataS/scripts/missions/mission00.lua" configFilename="maps/mapDE.xml" defaultVehiclesXMLFilename="defaultVehicles.xml" defaultItemsXMLFilename="defaultItems.xml">
+            <title>
+                <en>Czysta Mapa Do Edycji z dodanym dynamicznym błotem.</en>
+                <de>Czysta Mapa Do Edycji z dodanym dynamicznym błotem.</de>
+            </title>
+            <description>
+                <en>Czysta Mapa Do Edycji z dodanym dynamicznym błotem.</en>
+                <de>Czysta Mapa Do Edycji z dodanym dynamicznym błotem.</de>
+            </description>
+            <iconFilename>map_preview.png</iconFilename>
+        </map>
+    </maps>
+
+    <extraSourceFiles>
+        <sourceFile filename="scripts/DynamicMud.lua" />
+    </extraSourceFiles>
+</modDesc>
